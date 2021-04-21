@@ -7,6 +7,7 @@
 <h1 align="center" style="font-size: 22px"> 👩‍💻 𝔞𝔟𝔬𝔲𝔱 𝔪𝔢 👩‍💻 </h1>
 
 <p align="center">Hi, I'm Rambling! I'm a 16-year-old backend developer based out of the U.S.</p>
+<br>
 <img max-width="300" src="https://media1.tenor.com/images/0ff9ce5e9e9ff80032794a1c884d46a6/tenor.gif?itemid=11919992" align="right"/>
 <li><b>:woman_technologist: I'm currently working on</b> <a href="https://twitter.com/AkariAutomation">Akari Automation</a>, which is a piece of software that checks out products on retail sites. </li>
 <li><b>🤩 I'm currently learning</b> GoLang; however, I'm proficient in C#.</li>
