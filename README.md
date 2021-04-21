@@ -8,9 +8,9 @@
 
 <p align="center">Hi, I'm Rambling! I'm a 16-year-old backend developer based out of the U.S.</p>
 <img max-width="300" src="https://media1.tenor.com/images/0ff9ce5e9e9ff80032794a1c884d46a6/tenor.gif?itemid=11919992" align="right"/>
-* :woman_technologist: I'm currently working on <a href="https://twitter.com/AkariAutomation">Akari Automation</a>, which is a piece of software that checks out products on retail sites.
-* 🤩 I'm currently learning GoLang; however, I'm proficient in C#.
-* 😄 Pronouns: she/her 
+<li><b>:woman_technologist: I'm currently working on</b> <a href="https://twitter.com/AkariAutomation">Akari Automation</a>, which is a piece of software that checks out products on retail sites. </li>
+<li><b>🤩 I'm currently learning</b> GoLang; however, I'm proficient in C#.</li>
+<li><b>😄 Pronouns:</b> she/her </li> 
 
 I've been in love with computers and how they work since I was young. I started developing small programs when I was ten years old. Since then, I've improved a lot! I love to learn new languages and pick them up relatively quickly.
 
