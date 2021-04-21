@@ -1,16 +1,19 @@
 <h1 align="center" style="font-size: 22px"> 👋 (っ◔◡◔)っ Welcome to my GitHub 👋 </h1>
 <div align="center"><p>
-<img max-width="800" src="https://cdn.discordapp.com/avatars/204073983769968640/a_6062f81dbdb4163c8840ab661b5b4a6f.gif?size=256&f=.gif"/>
+<img max-width="400" src="https://giffiles.alphacoders.com/147/14724.gif"/>
   </p>
 </div>
 
 <h1 align="center" style="font-size: 22px"> 👩‍💻 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 👩‍💻 </h1>
-Hi, i'm Rambling! Im a 16 year old backend developer based out of the U.S.
+
+<p align="center">Hi, i'm Rambling! Im a 16 year old backend developer based out of the U.S.</p>
 
 * :woman_technologist: I'm currently working on Akari Automation, which is an a piece of software that checks out products on retail sites.
 * 🤩 I'm currently learning GoLang, however im proficient in C#.
 * 😄 Pronouns: she/her
 
+
+<h2 align="center" style="font-size: 22px"> ✍️ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ✍️ </h2>
 <p align="center">
   <strong><a href="https://twitter.com/shopifyraffle">Twitter</a></strong> |
   <strong><a href="https://discord.bio/p/rambling">Discord</a></strong> |
