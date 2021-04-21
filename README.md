@@ -30,7 +30,3 @@
 <br>
 </div>
 
-
-<p align="center">
-  <a href="https://github.com/RambIing"><img src="https://github-readme-stats.vercel.app/api?username=RambIing&hide_border=true&show_icons=true" alt="RambIing's github stats"></a>
-</p>
