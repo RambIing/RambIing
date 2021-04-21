@@ -14,7 +14,7 @@
 <br>
 I've been in love with computers and how they work since I was young. I started developing small programs when I was ten years old. Since then, I've improved a lot! I love to learn new languages and pick them up relatively quickly.
 
-<br>
+<br><br>
 <h2 align="center" style="font-size: 22px"> ✍️ 𝖈𝖔𝖓𝖙𝖆𝖈𝖙 𝖒𝖊 ✍️ </h2>
 <p align="center">
   <strong><a href="https://twitter.com/shopifyraffle">Twitter</a></strong> |
