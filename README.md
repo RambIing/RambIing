@@ -8,7 +8,7 @@
 
 <p align="center">Hi, i'm Rambling! Im a 16 year old backend developer based out of the U.S.</p>
 
-* :woman_technologist: I'm currently working on Akari Automation, which is an a piece of software that checks out products on retail sites.
+* :woman_technologist: I'm currently working on <a href="https://twitter.com/AkariAutomation">Akari Automation</a>, which is an a piece of software that checks out products on retail sites.
 * 🤩 I'm currently learning GoLang, however im proficient in C#.
 * 😄 Pronouns: she/her
 
