@@ -14,7 +14,7 @@
   <li><b>🤩 I'm currently learning</b> GoLang</li>
   <li><b>😄 Pronouns:</b> she/her </li>
   <li><b>🧠 My language knowledge </b> (from excellent proficiency to StackOverflow it all): C#, GoLang, Java, JavaScript (including Node), Python, and PHP</li>
-  <li><b>❓ Fun fact:</b> My first production program was a program made in C# that would allow users to get coins in the game PUBG by automating everything. This program exploited PUBG's system of giving coins since you didn't need to do anything significant to get them. Users could then use those coins to get crates that contain $1000+ items.
+  <li><b>❓ Fun fact:</b> My first production program was a program made in C# that would allow users to get coins in the game PUBG by automating everything. This program exploited PUBG's system of giving coins since you didn't need to do anything significant to get them. Users could then use those coins to get crates that contain $1000+ items for absolutely free.
 </li>
 
   <br>
