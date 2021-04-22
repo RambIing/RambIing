@@ -1,10 +1,4 @@
 <html>
-<style>
-.aboutme {
-  width: 75%;
-  height: 75%;
-}
-</style>
 <h1 align="center" style="font-size: 22px"> 👋 (っ◔◡◔)っ 𝖜𝖊𝖑𝖈𝖔𝖒𝖊 𝖙𝖔 𝖒𝖞 𝖌𝖎𝖙𝖍𝖚𝖇 👋 </h1>
 <div align="center"><p>
 <img max-width="400" src="assets/welcome.gif"/>
