@@ -9,7 +9,7 @@
 
   <p align="center">Hi, I'm Rambling! I'm a 16-year-old backend developer based out of the U.S.</p>
   <br>
-  <img max-width="100" src="assets/aboutme.gif" align="right"/>
+  <img src="assets/aboutme.gif" align="right"/>
   <li><b>:woman_technologist: I'm currently working on<a href="https://twitter.com/AkariAutomation"></b> Akari Automation <img height="30" src="assets/akari.gif"/></a>, which is a piece of software that checks out products on retail sites. </li>
   <li><b>🤩 I'm currently learning</b> GoLang; however, I'm proficient in C#.</li>
   <li><b>😄 Pronouns:</b> she/her </li> 
