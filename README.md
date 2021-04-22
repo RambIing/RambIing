@@ -33,7 +33,7 @@
 
 <div align="center"><p>
 
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tm7aamuevh5xxl5a8zs99by8u&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tm7aamuevh5xxl5a8zs99by8u&cover_image=true&theme=natemoo-re)](https://github.com/kittinan/spotify-github-profile)
 
 <p>
 <br><br>
