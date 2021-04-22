@@ -8,7 +8,7 @@
 
 <p align="center">Hi, I'm Rambling! I'm a 16-year-old backend developer based out of the U.S.</p>
 <br>
-<img max-width="300" src="https://media1.tenor.com/images/0ff9ce5e9e9ff80032794a1c884d46a6/tenor.gif?itemid=11919992" align="right"/>
+<img max-width="200" src="https://media1.tenor.com/images/0ff9ce5e9e9ff80032794a1c884d46a6/tenor.gif?itemid=11919992" align="right"/>
 <li><b>:woman_technologist: I'm currently working on<a href="https://twitter.com/AkariAutomation"></b> Akari Automation <img height="30" src="https://media2.giphy.com/media/kcRi3rGSq8uc/200w.gif?cid=82a1493by1i6v2f369q24q7sc9y1l3hynsvt7u2n3s5jaixm&rid=200w.gif"/></a>, which is a piece of software that checks out products on retail sites. </li>
 <li><b>🤩 I'm currently learning</b> GoLang; however, I'm proficient in C#.</li>
 <li><b>😄 Pronouns:</b> she/her </li> 
