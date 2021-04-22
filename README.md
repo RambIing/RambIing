@@ -11,8 +11,10 @@
   <br>
   <img src="assets/aboutme.gif" align="right"/>
   <li><b>:woman_technologist: I'm currently working on<a href="https://twitter.com/AkariAutomation"></b> Akari Automation <img height="30" src="assets/akari.gif"/></a>, which is a piece of software that checks out products on retail sites. </li>
-  <li><b>🤩 I'm currently learning</b> GoLang; however, I'm proficient in C#.</li>
-  <li><b>😄 Pronouns:</b> she/her </li> 
+  <li><b>🤩 I'm currently learning</b> GoLang</li>
+  <li><b>😄 Pronouns:</b> she/her </li>
+  <li><b>My language knowledge</b> (from excellent proficiency to stackoverflow it all): C#, GoLang, Java, JavaScript (including Node), Python, and PHP</li>
+  <li><b>Fun fact:</b> My first production program was a program made in C# that would allow users to get coins in the game PUBG, by automating everything.</li> 
   <br><br>
   I've been in love with computers and how they work since I was young. I started developing small programs when I was ten years old. Since then, I've improved a lot! I love to learn new languages and pick them up relatively quickly.
 
