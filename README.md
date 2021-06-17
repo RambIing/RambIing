@@ -7,7 +7,7 @@
 
 <h1 align="center" style="font-size: 22px"> 👩‍💻 𝔞𝔟𝔬𝔲𝔱 𝔪𝔢 👩‍💻 </h1>
 
-  <p align="center">Hi, I'm Rambling! I'm a 16-year-old backend developer based out of the U.S.</p>
+  <p align="center">Hi, I'm Rambling! I'm a 17-year-old backend developer based out of the U.S.</p>
   <br>
   <img src="assets/aboutme2.gif" align="right"/>
   <li><b>:woman_technologist: I'm currently working on<a href="https://twitter.com/AkariAutomation"></b> Akari Automation <img height="30" src="assets/akari.gif"/></a>, which is a piece of software that checks out products on retail sites. </li>
