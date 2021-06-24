@@ -39,6 +39,7 @@
 <br><br>
 </div>
 <h2 align="center" style="font-size: 22px"> 📊 𝓒𝓸𝓭𝓲𝓷𝓰 𝓼𝓽𝓪𝓽𝓼 📊 </h2>
+  ![Rambling's GitHub stats](https://github-readme-stats.vercel.app/api?username=rambiing&show_icons=true&theme=dracula&locale=en&count_private=true)
 <!--START_SECTION:waka-->
 ```text
 Go   4 hrs 46 mins   █████████████████████████   100.00 % 
