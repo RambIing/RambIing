@@ -13,7 +13,7 @@
   <li><b>:woman_technologist: I'm currently working on<a href="https://twitter.com/AkariAutomation"></b> Akari Automation <img height="30" src="assets/akari.gif"/></a>, which is a piece of software that checks out products on retail sites. </li>
   <li><b>🤩 I'm currently learning</b> GoLang</li>
   <li><b>😄 Pronouns:</b> she/her </li>
-  <li><b>🧠 My language knowledge </b> (from excellent proficiency to StackOverflow it all): C#, GoLang, Java, JavaScript (including Node), Python, and PHP</li>
+  <li><b>🧠 My language knowledge </b> (from excellent proficiency to StackOverflow it all): C#, GoLang, Java, JavaScript (including Node), and Python</li>
   <li><b>❓ Fun fact:</b> My first production program was a program made in C# that would allow users to get coins in the game PUBG by automating everything. This program exploited PUBG's system of giving coins since you didn't need to do anything significant to get them. Users could then use those coins to get crates that contain $1000+ items for absolutely free.
 </li>
 
