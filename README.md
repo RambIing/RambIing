@@ -45,7 +45,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-
+JavaScript   42 mins         █████████████████████████   99.98 % 
 ```
 <!--END_SECTION:waka-->
   </p>
