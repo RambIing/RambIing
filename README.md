@@ -45,9 +45,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Total: 36 mins
-
-Go   36 mins         █████████████████████████   100.00 % 
+Go   1 min           █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
   </p>
