@@ -45,7 +45,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Go   1 min           █████████████████████████   100.00 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
   </p>
