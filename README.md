@@ -46,8 +46,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-C++          44 mins         ████████████████████████▒   97.14 %
-Git Config   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
