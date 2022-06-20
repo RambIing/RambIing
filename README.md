@@ -7,19 +7,19 @@
 
 <h1 align="center" style="font-size: 22px"> 👩‍💻 𝔞𝔟𝔬𝔲𝔱 𝔪𝔢 👩‍💻 </h1>
 
-  <p align="center">Hi, I'm Rambling! I'm a 17-year-old backend developer based out of the U.S.</p>
+  <p align="center">Hi, I'm Rambling! I'm a 18-year-old backend developer based out of the U.S.</p>
   <br>
   <img src="assets/aboutme2.gif" align="right"/>
-  <li><b>:woman_technologist: I'm currently working on<a href="https://twitter.com/AkariAutomation"></b> Akari Automation <img height="30" src="assets/akari.gif"/></a>, which is a piece of software that checks out products on retail sites. </li>
+  <li><b>:woman_technologist: My most recent project was <a href="https://twitter.com/AkariAutomation"></b> Akari Automation</a>, in which the team and I reversed anti-bot products and website APIs to use to our customer's advantage to purchase hyped, limited items on a variety of big box retailers. </li>
   <li><b>🤩 I'm currently learning</b> GoLang</li>
   <li><b>😄 Pronouns:</b> she/her </li>
-  <li><b>🧠 My language knowledge </b> (from excellent proficiency to StackOverflow it all): C#, GoLang, Java, JavaScript (including Node), and Python</li>
+  <li><b>🧠 My language knowledge </b> (but not limited to): C#, GoLang, Java, JavaScript (including Node), and Python</li>
   <li><b>❓ Fun fact:</b> My first production program was a program made in C# that would allow users to get coins in the game PUBG by automating everything. This program exploited PUBG's system of giving coins since you didn't need to do anything significant to get them. Users could then use those coins to get crates that contain $1000+ items for absolutely free.
 </li>
 
   <br>
   
-  I've been in love with computers and how they work since I was young. I started developing small programs when I was ten years old. Since then, I've improved a lot! I love to learn new languages, and I pick them up relatively quickly.
+  I've been in love with computers and how they work since I was young. I started developing small programs when I was ten years old. Since then, I've improved a lot! I love to learn new languages, and I pick them up relatively quickly. Reverse engineering comes from a young age as well, as I used to try to reverse malware that ended up on my computer.
   
 <br><br>
 <h2 align="center" style="font-size: 22px"> ✍️ 𝖈𝖔𝖓𝖙𝖆𝖈𝖙 𝖒𝖊 ✍️ </h2>
