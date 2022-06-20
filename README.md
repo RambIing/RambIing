@@ -10,7 +10,7 @@
   <p align="center">Hi, I'm Rambling! I'm a 18-year-old backend developer based out of the U.S.</p>
   <br>
   <img src="assets/aboutme2.gif" align="right"/>
-  <li><b>:woman_technologist: My most recent project was <a href="https://twitter.com/AkariAutomation"></b> Akari Automation</a>, in which the team and I reversed anti-bot products and website APIs to use to our customer's advantage to purchase hyped, limited items on a variety of big box retailers. </li>
+  <li><b>:woman_technologist: My most recent project was <a href="https://twitter.com/AkariAutomation"></b> Akari Automation</a>, in which a small team of 2 others and I reversed a multitude of anti-bots and website APIs to use to our customer's advantage to purchase hyped, limited items on a variety of big box retailers. </li>
   <li><b>🤩 I'm currently learning</b> GoLang</li>
   <li><b>😄 Pronouns:</b> she/her </li>
   <li><b>🧠 My language knowledge </b> (but not limited to): C#, GoLang, Java, JavaScript (including Node), and Python</li>
