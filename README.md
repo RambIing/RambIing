@@ -12,9 +12,7 @@
   <img src="assets/aboutme2.gif" align="right"/>
   <li><b>:woman_technologist: My most recent project was <a href="https://twitter.com/AkariAutomation"></b> Akari Automation</a>, in which a small team of 2 others and I reversed a multitude of anti-bots and website APIs to use to our customer's advantage to purchase hyped, limited items on a variety of big box retailers. </li>
   <li><b>🤩 I'm currently learning</b> GoLang</li>
-  <li><b>😄 Pronouns:</b> she/her </li>
-  <li><b>🧠 My language knowledge </b> (but not limited to): C#, GoLang, Java, JavaScript (including Node), and Python</li>
-  <li><b>❓ Fun fact:</b> My first production program was a program made in C# that would allow users to get coins in the game PUBG by automating everything. This program exploited PUBG's system of giving coins since you didn't need to do anything significant to get them. Users could then use those coins to get crates that contain $1000+ items for absolutely free.
+  <li><b>🧠 My language knowledge </b> (but not limited to): C#, GoLang, Java, JavaScript, Node.js, and Python</li>
 </li>
 
   <br>
