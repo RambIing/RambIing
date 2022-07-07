@@ -44,8 +44,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Go               17 mins         █████████████████████████   99.76 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
