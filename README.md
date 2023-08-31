@@ -39,5 +39,4 @@
     <br>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rambiing&show_icons=true&theme=dracula&locale=en&count_private=true" alt="rambling" />
   </p>
-<h2 align="center" style="font-size: 22px"> 💙 𝖙𝖍𝖆𝖓𝖐 𝖞𝖔𝖚 𝖋𝖔𝖗 𝖗𝖊𝖆𝖉𝖎𝖓𝖌 💙 </h2>
 </html>
