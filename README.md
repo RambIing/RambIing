@@ -7,7 +7,7 @@
 
 <h1 align="center" style="font-size: 22px">  𝔞𝔟𝔬𝔲𝔱 𝔪𝔢  </h1>
 
-  <p align="center">Hi, I'm Rambling! I'm a 18-year-old backend developer who primarily uses Go</p>
+  <p align="center">Hi, I'm Rambling! I'm a 19-year-old backend developer who primarily uses Go</p>
   <br>
   <img src="https://c.tenor.com/DAAQXWcreF4AAAAC/cirno-cirno-fumo.gif" align="right" style="width:85%;max-width:200px;"/>
   <li><b>🖥️ I currently work at <a href="https://medbridge.com"></b> MedBridge</a>, helping to create a better experience for patients.</li>
