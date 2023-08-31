@@ -39,4 +39,10 @@
     <br>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rambiing&show_icons=true&theme=dracula&locale=en&count_private=true" alt="rambling" />
   </p>
+<h2 align="center" style="font-size: 22px"> 📧 Need to contact me? 📧 </h2>
+  <p align="center">
+    <br>
+    <li><b>Discord:</b> rambling</li>
+    <li><b>Email:</b> hello@cirno.codes</li>
+  </p>
 </html>
