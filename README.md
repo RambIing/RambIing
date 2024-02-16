@@ -34,11 +34,6 @@
 <p>
 <br><br>
 </div>
-<h2 align="center" style="font-size: 22px"> 📊 𝓒𝓸𝓭𝓲𝓷𝓰 𝓼𝓽𝓪𝓽𝓼 📊 </h2>
-  <p align="center">
-    <br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rambiing&show_icons=true&theme=dracula&locale=en&count_private=true" alt="rambling" />
-  </p>
 <h2 align="center" style="font-size: 22px"> 📧 Need to contact me? 📧 </h2>
   <p align="center">
     <br>
