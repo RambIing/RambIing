@@ -1,4 +1,3 @@
-<html>
 <h1 align="center" style="font-size: 22px"> 👋 (っ◔◡◔)っ 𝖜𝖊𝖑𝖈𝖔𝖒𝖊 𝖙𝖔 𝖒𝖞 𝖌𝖎𝖙𝖍𝖚𝖇 👋 </h1>
 <div align="center"><p>
 <img max-width="400" src="https://c.tenor.com/iIpVPcee16kAAAAC/anime-cirno.gif"/>
@@ -40,4 +39,5 @@
     <li><b>Discord:</b> rambling</li>
     <li><b>Email:</b> hello@cirno.codes</li>
   </p>
-</html>
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/rambiing/rambiing/assets/blob/master/cirno.gif?raw=true');]{x0000}$}
