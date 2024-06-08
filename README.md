@@ -60,6 +60,12 @@ Stretched cirno fumo code. If you want some customization, mess with the 0.5s ti
 \mmlToken{ms}[fontfamily="goombafont; color:red; pointer-events: none; z-index: 5; position: fixed; left: 50dvi; top: 50dvb; width: 80dvmin; background-position: 0 0; height: 80dvmin; translate: -50% -50%; opacity: 1; background-repeat: no-repeat; background-size: 100% 100%; height: 100px; width: 1000px; animation: 0.8s linear both alternate infinite shrink-x; background-image: url('https://github.com/rambiing/rambiing/blob/main/fumo.png?raw=true');"]{}
 ```
 
+<!-- 
+
+Congrats. You won!
+
+-->
+
 ```math
 \mmlToken{ms}[fontfamily="goombafont; color:red; pointer-events: none; z-index: 5; position: fixed; left: 50dvi; top: 70dvb; width: 80dvmin; background-position: 0 0; height: 80dvmin; translate: -50% -50%; opacity: 1; background-repeat: no-repeat; background-size: 100% 100%; height: 200px; width: 200px; animation: 0.3s linear both alternate infinite pulse-in; background-image: url('https://github.com/rambiing/rambiing/blob/main/congrats.jpg?raw=true');"]{}
 ```
