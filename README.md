@@ -1,4 +1,4 @@
-<h1 align="center" style="font-size: 22px"> 👋 (っ◔◡◔)っ 𝖜𝖊𝖑𝖈𝖔𝖒𝖊 𝖙𝖔 𝖒𝖞 𝖌𝖎𝖙𝖍𝖚𝖇 👋 </h1>
+<h1 align="center" style="font-size: 22px"> ᗜˬᗜ FUNKY ᗜˬᗜ </h1>
 <div align="center"><p>
 <img max-width="400" src="https://c.tenor.com/iIpVPcee16kAAAAC/anime-cirno.gif"/>
   </p>
