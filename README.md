@@ -1,5 +1,5 @@
 <!-- CSS injections are fixed, and will likely stay that way. Sorry if you didnt get it in time :( -->
-<!-- PRs are welcome with any grammar or spelling mistakes. Font changes/color changes -->
+<!-- PRs are welcome with any grammar, spelling mistakes, or other general tweaks. Font changes/color changes will likely not be approved though. -->
 <h1 align="center" style="font-size: 22px"> ᗜˬᗜ FUNKY ᗜˬᗜ </h1>
 <div align="center"><p>
 <img max-width="400" src="https://c.tenor.com/iIpVPcee16kAAAAC/anime-cirno.gif"/>
