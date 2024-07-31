@@ -1,20 +1,20 @@
-<!-- CSS injections are fixed, and will likely stay that way. Sorry if you didnt get it in time :( -->
 <!-- PRs are welcome with any grammar, spelling mistakes, or other general tweaks. Font changes/color changes will likely not be approved though. -->
-<h1 align="center" style="font-size: 22px"> ᗜˬᗜ FUNKY ᗜˬᗜ </h1>
-<div align="center"><p>
+<h1 align="center" style="font-size: 22px"> Welcome! </h1>
+<!-- <div align="center"><p>
 <img max-width="400" src="https://c.tenor.com/iIpVPcee16kAAAAC/anime-cirno.gif"/>
   </p>
-</div>
+</div> -->
 
-<h1 align="center" style="font-size: 22px">  about me  </h1>
+<h1 align="center" style="font-size: 22px">  About Me  </h1>
 
   <p align="center">Hi, I'm Rambling! I'm a 20-year-old backend developer who primarily uses Go</p>
   <br>
-  <img src="https://c.tenor.com/DAAQXWcreF4AAAAC/cirno-cirno-fumo.gif" align="right" style="width:85%;max-width:200px;"/>
-  <li><b>🖥️ I currently work at <a href="https://medbridge.com"></b> MedBridge</a>, helping to create a better experience for patients.</li>
-  <li><b>📖 About me:</b> I have been programming on and off for about 7+ years with multiple personal projects. <br><br>
-  During covid I helped make a bot, formally known as Akari, using C# then moving to Go, to help people like myself buy PS5s, Xboxes, and graphics cards to later resell. <br><br>
-  I now work at MedBridge, setting a record being the youngest there at 18. I primarily use PHP and Go on projects. <br><br>
+ <!-- <img src="https://c.tenor.com/DAAQXWcreF4AAAAC/cirno-cirno-fumo.gif" align="right" style="width:85%;max-width:200px;"/> -->
+  <li><b>📖 About me:</b> I have been programming for 3 years professionally, with multiple years outside of that on personal projects. <br><br>
+  <li><b>🖥️ Experience:</b> Previously worked at MedBridge, assisting patients in providing better care outcomes.
+  
+  During covid I helped make a bot, formally known as Akari, using C# then moving to Golang, to help people like myself buy PS5s, Xboxes, and graphics cards to later resell. <br><br>
+  
   I'm always happy to talk more, so add me on Discord or email at the bottom of the page!
   </li>
   <li><b>🤩 I'm currently learning</b> Golang</li>
