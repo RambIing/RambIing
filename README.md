@@ -14,8 +14,6 @@
   <li><b>🖥️ Experience:</b> Previously worked at MedBridge, assisting patients in providing better care outcomes.
   
   During covid I helped make a bot, formally known as Akari, using C# then moving to Golang, to help people like myself buy PS5s, Xboxes, and graphics cards to later resell. <br><br>
-  
-  I'm always happy to talk more, so add me on Discord or email at the bottom of the page!
   </li>
   <li><b>🤩 I'm currently learning</b> Golang</li>
   
