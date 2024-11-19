@@ -7,7 +7,7 @@
 
 <h1 align="center" style="font-size: 22px">  About Me  </h1>
 
-  <p align="center">Hi, I'm Rambling! I'm a 20-year-old backend developer who primarily uses Go</p>
+  <p align="center">Hi, I'm Rambling! I'm a backend developer who primarily uses Go</p>
   <br>
  <!-- <img src="https://c.tenor.com/DAAQXWcreF4AAAAC/cirno-cirno-fumo.gif" align="right" style="width:85%;max-width:200px;"/> -->
   <li><b>📖 About me:</b> I have been programming for 3 years professionally, with multiple years outside of that on personal projects. <br><br>
