@@ -24,7 +24,7 @@
       </ul>
     </ul>
   </li>
-  <li><b>🤩 I'm currently learning</b> Golang</li>
+  <li><b>🤩 I'm currently learning</b> Ruby</li>
 </ul>
   
 </li><br> <!-- Display fix -->
