@@ -27,7 +27,7 @@
   <li><b>🤩 I'm currently learning</b> Golang</li>
 </ul>
   
-</li>
+</li><br> <!-- Display fix -->
 
 <!-- Tech Stack -->
 
