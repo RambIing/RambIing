@@ -16,7 +16,7 @@
   <li><b>📖 About me:</b> I have been programming for 3 years professionally, with multiple years outside of that on personal projects.
   <li><b>🖥️ Experience:</b>
     <ul>
-      <li>Currently at <a href="https://stripe.com">Stripe</a> on Developer Infrastructure</li>
+      <li>Currently at <a href="https://stripe.com">Stripe</a> on Infrastructure</li>
       <ul>
         <b>Previously at:</b>
         <li><a href="https://medbridge.com">MedBridge</a> on patient engagement</li>
