@@ -13,7 +13,7 @@
 <p align="center">Hi, I'm Rambling! I'm a backend developer.</p>
 <img src="https://c.tenor.com/DAAQXWcreF4AAAAC/cirno-cirno-fumo.gif" align="right" style="width:85%;max-width:200px;"/>
 <ul>
-  <li><b>📖 About me:</b> I have been programming for 3 years professionally, with multiple years outside of that on personal projects.
+  <li><b>📖 About me:</b> I have been programming for over 4 years professionally, with multiple years outside of that on personal projects.
   <li><b>🖥️ Experience:</b>
     <ul>
       <li>Currently at <a href="https://stripe.com">Stripe</a> on Infrastructure</li>
