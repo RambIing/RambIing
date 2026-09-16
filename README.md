@@ -17,7 +17,7 @@
   <li>Outside of software, im the founder and promoter for <a href="https://ephemerality.party">Ephemerality</a>, a rave organization based in Seattle.</li>
   <li><b>🖥️ Experience:</b>
     <ul>
-      <li>Currently open to new engineering opportunities! Email is below if you're looking for new backend engineers.</li>
+      <li>Currently at <a href="https://withpersona.com">Persona</a>on the Edge Infrastructure team.</li>
       <ul>
         <b>Previously at:</b>
         <li><a href="https://stripe.com">Stripe</a> on v1 Infrastructure</li>
